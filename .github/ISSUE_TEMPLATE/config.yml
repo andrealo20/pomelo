@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a problem privately
+    url: https://pomeloapp.net/feedback/
+    about: A message with a log or a screenshot that only the developer sees.
+  - name: Help
+    url: https://pomeloapp.net/help/
+    about: The gesture, the keys and every window, explained.

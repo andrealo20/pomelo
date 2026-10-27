@@ -1,0 +1,42 @@
+name: Bug report
+description: Something in Pomelo does not work as it should.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Everything in an issue is public. To send a log or a screenshot that only the developer sees, use [Report a problem](https://pomeloapp.net/feedback/) instead.
+  - type: input
+    id: version
+    attributes:
+      label: Pomelo version
+      description: In Settings, under About.
+      placeholder: 1.2.0.0
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      description: Press Win+R, type winver and press Enter.
+      placeholder: Windows 11 24H2, build 26100
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected and what Pomelo did instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to see it again
+      placeholder: |
+        1. Drag three HEIC photos in File Explorer
+        2. Tap Shift
+        3. Drop them on JPG
+  - type: textarea
+    id: files
+    attributes:
+      label: The files
+      description: Their type and size, and where they come from if it matters.
