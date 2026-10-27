@@ -16,6 +16,21 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/topics/windows"><img src="https://img.shields.io/badge/windows-f2a99c?style=flat-square" alt="windows"></a>
+  <a href="https://github.com/topics/windows-11"><img src="https://img.shields.io/badge/windows--11-f2a99c?style=flat-square" alt="windows-11"></a>
+  <a href="https://github.com/topics/file-converter"><img src="https://img.shields.io/badge/file--converter-f2a99c?style=flat-square" alt="file-converter"></a>
+  <a href="https://github.com/topics/image-converter"><img src="https://img.shields.io/badge/image--converter-f2a99c?style=flat-square" alt="image-converter"></a>
+  <a href="https://github.com/topics/video-converter"><img src="https://img.shields.io/badge/video--converter-f2a99c?style=flat-square" alt="video-converter"></a>
+  <a href="https://github.com/topics/audio-converter"><img src="https://img.shields.io/badge/audio--converter-f2a99c?style=flat-square" alt="audio-converter"></a>
+  <a href="https://github.com/topics/pdf-tools"><img src="https://img.shields.io/badge/pdf--tools-f2a99c?style=flat-square" alt="pdf-tools"></a>
+  <a href="https://github.com/topics/document-converter"><img src="https://img.shields.io/badge/document--converter-f2a99c?style=flat-square" alt="document-converter"></a>
+  <a href="https://github.com/topics/image-compression"><img src="https://img.shields.io/badge/image--compression-f2a99c?style=flat-square" alt="image-compression"></a>
+  <a href="https://github.com/topics/drag-and-drop"><img src="https://img.shields.io/badge/drag--and--drop-f2a99c?style=flat-square" alt="drag-and-drop"></a>
+  <a href="https://github.com/topics/file-explorer"><img src="https://img.shields.io/badge/file--explorer-f2a99c?style=flat-square" alt="file-explorer"></a>
+  <a href="https://github.com/topics/microsoft-store"><img src="https://img.shields.io/badge/microsoft--store-f2a99c?style=flat-square" alt="microsoft-store"></a>
+</p>
+
+<p align="center">
   <a href="https://pomeloapp.net/">Website</a> ·
   <a href="https://pomeloapp.net/features/">Every window</a> ·
   <a href="https://pomeloapp.net/help/">Help</a> ·
@@ -24,8 +39,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-demo.gif" width="800" alt="A photo dragged in File Explorer: Shift opens the wheel and the photo is dropped on the WEBP wedge">
+  <img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-trailer.webp" width="800" alt="The Pomelo trailer: drag, tap a key, drop, then the windows of the tools for images, video, audio and PDF">
 </p>
+
+<p align="center"><a href="https://pomeloapp.net/press/pomelo-trailer.mp4">Watch the trailer with sound</a> (40 seconds, MP4)</p>
 
 Pomelo adds a wheel of file operations to the drag you already make in File Explorer. Hold the mouse button on some files, tap Shift, Ctrl or Alt, and the wheel opens under the pointer. Drop the files on a wedge. The results are saved as new files next to the originals, and nothing leaves your PC.
 
