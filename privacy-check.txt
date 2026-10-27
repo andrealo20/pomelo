@@ -1,1 +1,0 @@
-Checks the author address of commits made through the API. This repository is deleted afterwards.
