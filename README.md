@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-logo.svg" width="88" height="88" alt="">
+  <img src="https://pomeloapp.net/press/pomelo-logo.svg" width="88" height="88" alt="">
 </p>
 
 <h1 align="center">Pomelo</h1>
@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9P81WJ5W014Q?referrer=appbadge&mode=full">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-preview.pomelo-app.pages.dev/store/get-it-from-microsoft-light.svg">
-      <img src="https://github-preview.pomelo-app.pages.dev/store/get-it-from-microsoft-dark.svg" width="161" height="44" alt="Get it from Microsoft">
+      <source media="(prefers-color-scheme: dark)" srcset="https://pomeloapp.net/store/get-it-from-microsoft-light.svg">
+      <img src="https://pomeloapp.net/store/get-it-from-microsoft-dark.svg" width="161" height="44" alt="Get it from Microsoft">
     </picture>
   </a>
 </p>
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-trailer.webp" width="800" alt="The Pomelo trailer: drag, tap a key, drop, then the windows of the tools for images, video, audio and PDF">
+  <img src="https://pomeloapp.net/press/pomelo-trailer.webp" width="800" alt="The Pomelo trailer: drag, tap a key, drop, then the windows of the tools for images, video, audio and PDF">
 </p>
 
 <p align="center"><a href="https://pomeloapp.net/press/pomelo-trailer.mp4">Watch the trailer with sound</a> (40 seconds, MP4)</p>
@@ -73,12 +73,12 @@ A wedge whose name ends in an ellipsis, like Crop…, opens a small window first
 ## Screenshots
 
 <p align="center">
-  <img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-screenshot-01.jpg" width="49%" alt="Convert files mid-drag: tap Shift while you drag and drop on a wedge">
-  <img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-screenshot-02.jpg" width="49%" alt="Compress, crop, edit: Ctrl opens Tools">
-  <img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-screenshot-03.jpg" width="49%" alt="Actions are always free: Alt opens Actions">
-  <img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-screenshot-04.jpg" width="49%" alt="Results land next to the originals">
-  <img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-screenshot-05.jpg" width="49%" alt="Light or dark, like Windows">
-  <img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-screenshot-06.jpg" width="49%" alt="Your keys, your way: Settings">
+  <img src="https://pomeloapp.net/press/pomelo-screenshot-01.jpg" width="49%" alt="Convert files mid-drag: tap Shift while you drag and drop on a wedge">
+  <img src="https://pomeloapp.net/press/pomelo-screenshot-02.jpg" width="49%" alt="Compress, crop, edit: Ctrl opens Tools">
+  <img src="https://pomeloapp.net/press/pomelo-screenshot-03.jpg" width="49%" alt="Actions are always free: Alt opens Actions">
+  <img src="https://pomeloapp.net/press/pomelo-screenshot-04.jpg" width="49%" alt="Results land next to the originals">
+  <img src="https://pomeloapp.net/press/pomelo-screenshot-05.jpg" width="49%" alt="Light or dark, like Windows">
+  <img src="https://pomeloapp.net/press/pomelo-screenshot-06.jpg" width="49%" alt="Your keys, your way: Settings">
 </p>
 
 ## The tool windows
@@ -87,16 +87,16 @@ Some wedges open a window before they save. Each one keeps the original and save
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-window-image-crop.png" alt="The Crop window"><br>Crop… a photo to a ratio or to the pixel.</td>
-    <td width="50%"><img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-window-image-edit.png" alt="The Edit window"><br>Edit… light and colour with eight sliders and a live preview.</td>
+    <td width="50%"><img src="https://pomeloapp.net/press/pomelo-window-image-crop.png" alt="The Crop window"><br>Crop… a photo to a ratio or to the pixel.</td>
+    <td width="50%"><img src="https://pomeloapp.net/press/pomelo-window-image-edit.png" alt="The Edit window"><br>Edit… light and colour with eight sliders and a live preview.</td>
   </tr>
   <tr>
-    <td><img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-window-image-annotate.png" alt="The Annotate window"><br>Annotate… with arrows, boxes, circles, pen and text.</td>
-    <td><img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-window-video-trim.png" alt="The Trim window for a video"><br>Trim… a video to a hundredth of a second.</td>
+    <td><img src="https://pomeloapp.net/press/pomelo-window-image-annotate.png" alt="The Annotate window"><br>Annotate… with arrows, boxes, circles, pen and text.</td>
+    <td><img src="https://pomeloapp.net/press/pomelo-window-video-trim.png" alt="The Trim window for a video"><br>Trim… a video to a hundredth of a second.</td>
   </tr>
   <tr>
-    <td><img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-window-audio-normalize.png" alt="The Normalize window"><br>Normalize… the loudness of a recording to a target in LUFS.</td>
-    <td><img src="https://github-preview.pomelo-app.pages.dev/press/pomelo-window-pdf-organize.png" alt="The Organize window for a PDF"><br>Organize… the pages of a PDF: reorder, rotate, duplicate or delete.</td>
+    <td><img src="https://pomeloapp.net/press/pomelo-window-audio-normalize.png" alt="The Normalize window"><br>Normalize… the loudness of a recording to a target in LUFS.</td>
+    <td><img src="https://pomeloapp.net/press/pomelo-window-pdf-organize.png" alt="The Organize window for a PDF"><br>Organize… the pages of a PDF: reorder, rotate, duplicate or delete.</td>
   </tr>
 </table>
 
