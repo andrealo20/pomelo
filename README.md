@@ -1,4 +1,11 @@
-<h1 align="center"><a href="https://pomeloapp.net/"><img src="https://pomeloapp.net/press/pomelo-logo.svg" width="52" height="52" align="center" alt=""></a> Pomelo</h1>
+<h1 align="center">
+  <a href="https://pomeloapp.net/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://pomeloapp.net/press/pomelo-lockup-dark.png">
+      <img src="https://pomeloapp.net/press/pomelo-lockup-light.png" width="242" alt="Pomelo">
+    </picture>
+  </a>
+</h1>
 
 <p align="center">Convert, compress and edit files mid-drag in File Explorer.</p>
 
