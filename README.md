@@ -26,7 +26,7 @@
   <a href="#what-it-does"><img src="https://img.shields.io/badge/tools-31-E74C3C" alt="tools: 31"></a>
   <a href="#what-it-does"><img src="https://img.shields.io/badge/formats-36-16A085" alt="formats: 36"></a>
   <a href="#what-it-does"><img src="https://img.shields.io/badge/file%20actions-8-8E44AD" alt="file actions: 8"></a>
-  <a href="https://apps.microsoft.com/detail/9P81WJ5W014Q?referrer=appbadge&mode=full"><img src="https://img.shields.io/badge/price-free%20%2B%20unlock%20USD%2019.99-F2A99C" alt="price: free + unlock USD 19.99"></a>
+
   <a href="https://pomeloapp.net/privacy/"><img src="https://img.shields.io/badge/tracking-none-2C3E50" alt="tracking: none"></a>
   <img src="https://img.shields.io/badge/license-proprietary-555555" alt="license: proprietary">
 </p>
