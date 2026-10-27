@@ -16,18 +16,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/topics/windows"><img src="https://img.shields.io/badge/windows-f2a99c?style=flat-square" alt="windows"></a>
-  <a href="https://github.com/topics/windows-11"><img src="https://img.shields.io/badge/windows--11-f2a99c?style=flat-square" alt="windows-11"></a>
-  <a href="https://github.com/topics/file-converter"><img src="https://img.shields.io/badge/file--converter-f2a99c?style=flat-square" alt="file-converter"></a>
-  <a href="https://github.com/topics/image-converter"><img src="https://img.shields.io/badge/image--converter-f2a99c?style=flat-square" alt="image-converter"></a>
-  <a href="https://github.com/topics/video-converter"><img src="https://img.shields.io/badge/video--converter-f2a99c?style=flat-square" alt="video-converter"></a>
-  <a href="https://github.com/topics/audio-converter"><img src="https://img.shields.io/badge/audio--converter-f2a99c?style=flat-square" alt="audio-converter"></a>
-  <a href="https://github.com/topics/pdf-tools"><img src="https://img.shields.io/badge/pdf--tools-f2a99c?style=flat-square" alt="pdf-tools"></a>
-  <a href="https://github.com/topics/document-converter"><img src="https://img.shields.io/badge/document--converter-f2a99c?style=flat-square" alt="document-converter"></a>
-  <a href="https://github.com/topics/image-compression"><img src="https://img.shields.io/badge/image--compression-f2a99c?style=flat-square" alt="image-compression"></a>
-  <a href="https://github.com/topics/drag-and-drop"><img src="https://img.shields.io/badge/drag--and--drop-f2a99c?style=flat-square" alt="drag-and-drop"></a>
-  <a href="https://github.com/topics/file-explorer"><img src="https://img.shields.io/badge/file--explorer-f2a99c?style=flat-square" alt="file-explorer"></a>
-  <a href="https://github.com/topics/microsoft-store"><img src="https://img.shields.io/badge/microsoft--store-f2a99c?style=flat-square" alt="microsoft-store"></a>
+  <img src="https://img.shields.io/badge/language-C%23-239120" alt="language: C#">
+  <img src="https://img.shields.io/badge/.NET-10-512BD4" alt=".NET: 10">
+  <img src="https://img.shields.io/badge/UI-WinUI%203-0078D4" alt="UI: WinUI 3">
+  <img src="https://img.shields.io/badge/media-Media%20Foundation-005A9E" alt="media: Media Foundation">
+  <img src="https://img.shields.io/badge/platform-Windows%2011%20x64-00A4EF" alt="platform: Windows 11 x64">
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.2.0-44C800" alt="version: 1.2.0"></a>
+  <a href="#what-it-does"><img src="https://img.shields.io/badge/conversions-220-F39C12" alt="conversions: 220"></a>
+  <a href="#what-it-does"><img src="https://img.shields.io/badge/tools-31-E74C3C" alt="tools: 31"></a>
+  <a href="#what-it-does"><img src="https://img.shields.io/badge/formats-36-16A085" alt="formats: 36"></a>
+  <a href="#what-it-does"><img src="https://img.shields.io/badge/file%20actions-8-8E44AD" alt="file actions: 8"></a>
+  <a href="https://apps.microsoft.com/detail/9P81WJ5W014Q?referrer=appbadge&mode=full"><img src="https://img.shields.io/badge/price-free%20%2B%20unlock%20USD%2019.99-F2A99C" alt="price: free + unlock USD 19.99"></a>
+  <a href="https://pomeloapp.net/privacy/"><img src="https://img.shields.io/badge/tracking-none-2C3E50" alt="tracking: none"></a>
+  <img src="https://img.shields.io/badge/license-proprietary-555555" alt="license: proprietary">
 </p>
 
 <p align="center">
@@ -47,6 +48,20 @@
 Pomelo adds a wheel of file operations to the drag you already make in File Explorer. Hold the mouse button on some files, tap Shift, Ctrl or Alt, and the wheel opens under the pointer. Drop the files on a wedge. The results are saved as new files next to the originals, and nothing leaves your PC.
 
 The wheel knows 220 conversions between 36 formats, 31 tools and 8 file actions, for images, PDFs, audio, video, documents, slides and spreadsheets.
+
+## Built like a part of Windows
+
+Pomelo is made with the same parts as the apps that come with Windows 11, so it looks and behaves like one of them.
+
+- The interface is WinUI 3, the framework of the Windows 11 apps: Mica windows, Segoe Fluent Icons, the system font, and your light, dark or high contrast theme.
+- Audio and video go through Media Foundation, the media engine of Windows, with the codecs of Windows and, where your PC has one, the hardware encoder of its graphics chip.
+- HEIC photos are read and written by the Windows Imaging Component, with Microsoft's HEIF and HEVC extensions.
+- PDF pages become pictures through the PDF renderer built into Windows, and Copy text reads images with the text recognition built into Windows.
+- Share opens the Windows share sheet. Copy to and Move to hand the files to Windows, which copies them with its own progress and undo.
+
+Where Windows has no engine of its own, Pomelo ships open-source ones: libvips for the other image formats, qpdf and PDFsharp for PDFs, the Xiph libraries and libvpx for OGG, Opus and WebM, and TagLib# for audio tags. Word, PowerPoint and Excel files are read with Syncfusion's libraries, so Office is not needed.
+
+Pomelo is an independent app by Andrea Loroni. It is not made, sponsored or endorsed by Microsoft.
 
 ## How it works
 
