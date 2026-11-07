@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/UI-WinUI%203-0078D4" alt="UI: WinUI 3">
   <img src="https://img.shields.io/badge/media-Media%20Foundation-005A9E" alt="media: Media Foundation">
   <img src="https://img.shields.io/badge/platform-Windows%2011%20x64-00A4EF" alt="platform: Windows 11 x64">
-  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.5.0-44C800" alt="version: 1.5.0"></a>
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.6.0-44C800" alt="version: 1.6.0"></a>
   <a href="#what-it-does"><img src="https://img.shields.io/badge/conversions-739-F39C12" alt="conversions: 739"></a>
   <a href="#what-it-does"><img src="https://img.shields.io/badge/tools-90-E74C3C" alt="tools: 90"></a>
   <a href="#what-it-does"><img src="https://img.shields.io/badge/formats-89-16A085" alt="formats: 89"></a>
@@ -404,7 +404,7 @@ Convert and Tools start with 20 free files, then 2 free files a day, and Actions
 - HEIC files need the HEIF Image Extensions and the HEVC Video Extensions from the Microsoft Store. HEVC, VP9 and AV1 video need their Windows video extensions.
 - Camera RAW files other than DNG need the Raw Image Extension from the Microsoft Store, and JPEG XL files the JPEG XL Image Extension (Windows 11 24H2 and later).
 - Windows N editions need the Media Feature Pack for audio and video.
-- The interface is in English.
+- The interface is in English, Chinese (Simplified), Japanese, Italian, French, Spanish, Portuguese and German, and follows the language of Windows.
 
 ## Support
 

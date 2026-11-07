@@ -2,6 +2,11 @@
 
 What changed in each version of Pomelo. Updates arrive through the Microsoft Store.
 
+## 1.6.0, November 2026
+
+- Pomelo speaks eight languages: English, Chinese (Simplified), Japanese, Italian, French, Spanish, Portuguese and German. It follows the language of Windows, and Settings > Appearance > Language picks another one.
+- Settings > Appearance > Font gives the wheel and the tab names above it one of ten fonts.
+
 ## 1.5.0, November 2026
 
 - New kinds of files: subtitles (SRT, VTT, ASS, LRC), web fonts (WOFF, WOFF2), contacts (VCF), calendars (ICS), GPS tracks (GPX, KML, KMZ, GeoJSON) and 3D models (STL, OBJ, 3MF), each with its own wheel. Images also read JFIF, SVG, camera RAW, Photoshop files, TGA, DDS, EXR and HDR, and audio reads M4B, AMR and 3GA. In all, 739 conversions between 89 formats.
