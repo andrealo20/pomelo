@@ -2,6 +2,10 @@
 
 What changed in each version of Pomelo. Updates arrive through the Microsoft Store.
 
+## 1.7.0, November 2026
+
+- Settings > Appearance > Glass adds Liquid Glass next to Acrylic, the default. Each wedge of the wheel and its hub become a clear lens that magnifies what is behind the wheel and bends it hard at the rim, the key bar a piece of glass, and the names on the wedges get a soft halo. To draw it, Pomelo copies the part of the screen where the wheel opens when you press the key, keeps the copy in memory only and drops it once the glass is drawn. The wheel stays acrylic when transparency effects are off, with Energy saver, a high contrast theme or in a remote desktop session.
+
 ## 1.6.0, November 2026
 
 - Pomelo speaks eight languages: English, Chinese (Simplified), Japanese, Italian, French, Spanish, Portuguese and German. It follows the language of Windows, and Settings > Appearance > Language picks another one.

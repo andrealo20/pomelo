@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/UI-WinUI%203-0078D4" alt="UI: WinUI 3">
   <img src="https://img.shields.io/badge/media-Media%20Foundation-005A9E" alt="media: Media Foundation">
   <img src="https://img.shields.io/badge/platform-Windows%2011%20x64-00A4EF" alt="platform: Windows 11 x64">
-  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.6.0-44C800" alt="version: 1.6.0"></a>
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.7.0-44C800" alt="version: 1.7.0"></a>
   <a href="#what-it-does"><img src="https://img.shields.io/badge/conversions-739-F39C12" alt="conversions: 739"></a>
   <a href="#what-it-does"><img src="https://img.shields.io/badge/tools-90-E74C3C" alt="tools: 90"></a>
   <a href="#what-it-does"><img src="https://img.shields.io/badge/formats-89-16A085" alt="formats: 89"></a>
@@ -56,6 +56,7 @@ The wheel knows 739 conversions between 89 formats, 90 tools and 19 file actions
 Pomelo is made with the same parts as the apps that come with Windows 11, so it looks and behaves like one of them.
 
 - The interface is WinUI 3, the framework of the Windows 11 apps: Mica windows, Segoe Fluent Icons, the system font, and your light, dark or high contrast theme.
+- The wheel is the system's acrylic, or Liquid Glass: a copy of the screen under the wheel, taken when you press the key, run once through a Direct2D shader that turns each wedge into a lens.
 - Audio and video go through Media Foundation, the media engine of Windows, with the codecs of Windows and, where your PC has one, the hardware encoder of its graphics chip.
 - HEIC photos are read and written by the Windows Imaging Component, with Microsoft's HEIF and HEVC extensions, camera RAW files are read by it with the Raw Image Extension, and JPEG XL files with the JPEG XL Image Extension.
 - PDF pages become pictures through the PDF renderer built into Windows, Copy text reads images with the text recognition built into Windows, and Stabilize uses the video stabilization effect of Media Foundation.
